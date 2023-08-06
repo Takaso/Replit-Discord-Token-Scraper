@@ -1,0 +1,5 @@
+requests_html
+urllib
+chromedriver-binary
+selenium
+chromedriver-binary-auto
